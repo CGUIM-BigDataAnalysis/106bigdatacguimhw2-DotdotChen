@@ -1,0 +1,58 @@
+"0","install.packages(""readr"")
+"
+"2","also installing the dependencies ¡¥pkgconfig¡¦, ¡¥hms¡¦, ¡¥BH¡¦
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.4/pkgconfig_2.0.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 20000 bytes (19 KB)
+"
+"2","downloaded 19 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.4/hms_0.4.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 33948 bytes (33 KB)
+"
+"2","downloaded 33 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.4/BH_1.66.0-1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 17880018 bytes (17.1 MB)
+"
+"2","downloaded 17.1 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.4/readr_1.1.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1254870 bytes (1.2 MB)
+"
+"2","downloaded 1.2 MB
+
+"
+"1","package â€˜pkgconfigâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜hmsâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜BHâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜readrâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1","The downloaded binary packages are in
+	C:\Users\USER\AppData\Local\Temp\RtmpCmRls7\downloaded_packages"
+"1","
+"
+"2","Warning message:
+"
+"2","In strsplit(code, ""\n"", fixed = TRUE) :"
+"2","
+ "
+"2"," input string 1 is invalid in this locale
+"
